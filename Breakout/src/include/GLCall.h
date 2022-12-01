@@ -1,7 +1,7 @@
-#ifndef GLCALL
-#define GLCALL
+#ifndef GLCALL_H
+#define GLCALL_H
 
-#include <glad/glad.h>  //
+#include <glad/glad.h>  //glad.c 需要包含在项目目录中
 #include <GLFW/glfw3.h>
 
 #include <iostream>

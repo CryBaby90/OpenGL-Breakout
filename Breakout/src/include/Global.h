@@ -1,8 +1,8 @@
-#ifndef GLOBAL
-#define GLOBAL
+#ifndef GLOBAL_H
+#define GLOBAL_H
 
-const unsigned int SCR_WIDTH = 800;
-const unsigned int SCR_HEIGHT = 600;
+const GLuint SCR_WIDTH = 800;
+const GLuint SCR_HEIGHT = 600;
 
 #endif 
 
